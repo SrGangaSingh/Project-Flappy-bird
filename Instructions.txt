@@ -6,6 +6,7 @@ This is my github link if you want to get the source code of the game -
 https://github.com/SrGangaSingh/Project-Flappy-bird
 
 I have also given a file called flappy bird.rar here. you can download it and start playing the game
+https://drive.google.com/file/d/1rz8iVMyITjZO_-neClNykDlfpxg_z5oX/view?usp=sharing
 
 Instructions to install the game:
 1. extract the file called Flappy Bird.rar
