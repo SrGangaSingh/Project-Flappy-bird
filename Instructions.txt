@@ -1,0 +1,19 @@
+Hello there,
+This is my new project - Flappy Bird Game.
+I have made this game from scratch using coding.
+
+This is my github link if you want to get the source code of the game - 
+https://github.com/SrGangaSingh/Project-Flappy-bird
+
+I have also given a file called flappy bird.rar here. you can download it and start playing the game
+
+Instructions to install the game:
+1. extract the file called Flappy Bird.rar
+2. open the flappy bird folder.
+3. double click on flappybird.exe.
+
+Enjoy the game!
+And let me know how much score did you make.
+
+Regards,
+Ganga Singh
